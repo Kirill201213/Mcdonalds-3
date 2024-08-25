@@ -8,6 +8,12 @@ header h2{
   color: black;
 }
 
+.div-2:hover{
+   color: black;
+  background-color: blueviolet;
+  transition: 0.8s;
+}
+
 .logo{
   display: flex;
   padding-top: 50px;
