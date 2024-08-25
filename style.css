@@ -243,7 +243,7 @@ main{
   border-radius: 5px;
   text-decoration: none;
   color: black;
-  margin-left: 400px;
+  margin-left: 600px;
 }
 
 .div-3:hover{
@@ -254,7 +254,11 @@ main{
 
 .main-end1{
   margin-top: 200px;
-  margin-left: 200px;
+  margin-left: 300px;
+}
+
+.a-end{
+  margin-right: 50px;
 }
 
 .a-end{
